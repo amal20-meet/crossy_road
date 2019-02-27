@@ -4,7 +4,7 @@ import random
 screen_width = turtle.getcanvas().winfo_width()/2
 screen_height = turtle.getcanvas().winfo_height()/2
 turtle.bgpic("road.gif")
-
+#comment
 turtle.setup(screen_width *2, screen_height*2)
 rSPEED = 25
 rCOLOR = (random.random(),random.random(),random.random()) 
